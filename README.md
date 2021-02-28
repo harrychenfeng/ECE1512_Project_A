@@ -1,1 +1,1 @@
-# ECE1512_Project_A
+# ECE1512 Project A
